@@ -8,10 +8,31 @@
     background-color: #cc7f22;
     color: white;
 }
-.text-color{
+
+.text-color {
     color: #414040;
 }
+
 .banner-img {
+    background-image: url(images/slider-3.jpg);
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+
+.client-img-1 {
+    background-image: url(images/slider-1.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 70vh;
+}
+
+.clients-img-2 {
+    background-image: url(images/slider-2.jpg);
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+
+.client-img-3 {
     background-image: url(images/slider-3.jpg);
     background-repeat: no-repeat;
     height: 70vh;

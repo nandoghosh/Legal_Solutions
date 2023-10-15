@@ -37,3 +37,10 @@
     background-repeat: no-repeat;
     height: 70vh;
 }
+
+.card-color{
+    background-color: #E7E7E7;
+}
+.contact-card-color{
+    background-color: #F3F3F3;
+}

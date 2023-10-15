@@ -8,7 +8,9 @@
     background-color: #cc7f22;
     color: white;
 }
-
+.text-color{
+    color: #414040;
+}
 .banner-img {
     background-image: url(images/slider-3.jpg);
     background-repeat: no-repeat;

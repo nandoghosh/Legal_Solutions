@@ -1,0 +1,16 @@
+.btn-color {
+    background-color: #B68C5A;
+    color: #FFFFFF;
+
+}
+
+.btn-color:hover {
+    background-color: #cc7f22;
+    color: white;
+}
+
+.banner-img {
+    background-image: url(images/slider-3.jpg);
+    background-repeat: no-repeat;
+    height: 70vh;
+}
